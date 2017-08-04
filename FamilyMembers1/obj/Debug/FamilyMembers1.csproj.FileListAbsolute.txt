@@ -1,0 +1,4 @@
+C:\Users\ssamanta\Documents\Visual Studio 2017\Projects\BookTickets\FamilyMembers1\bin\Debug\Apttus.Assignment.FamilyMembers1.dll
+C:\Users\ssamanta\Documents\Visual Studio 2017\Projects\BookTickets\FamilyMembers1\bin\Debug\Apttus.Assignment.FamilyMembers1.pdb
+C:\Users\ssamanta\Documents\Visual Studio 2017\Projects\BookTickets\FamilyMembers1\obj\Debug\Apttus.Assignment.FamilyMembers1.dll
+C:\Users\ssamanta\Documents\Visual Studio 2017\Projects\BookTickets\FamilyMembers1\obj\Debug\Apttus.Assignment.FamilyMembers1.pdb
