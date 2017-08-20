@@ -1,22 +1,18 @@
 ﻿using Apttus.Assignment.FamilyMembers1.enums;
-using Apttus.Assignment.Interfaces;
 
 namespace Apttus.Assignment.FamilyMembers1
 {
-    public class Father : IPerson
+    public class Father : Members
     {
-        public Father(string name, int age)
+        public Father(string name, int age, string getroles)
         {
             Name = name;
             Age = age;
+            GetRoles = getroles;
         }
 
-        public string Name { get; set; }
-        public int Age { get; set; }
+        public override Gender Gender => Gender.Male;
 
-        Gender IPerson.GetGender()
-        {
-            return Gender.Male;
-        }
+        
     }
 }

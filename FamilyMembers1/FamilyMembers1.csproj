@@ -7,7 +7,7 @@
     <ProjectGuid>{84F8293D-02CB-43B1-8560-CD0E3D12794C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Apttus.Assignment.FamilyMembers</RootNamespace>
+    <RootNamespace>Apttus.Assignment.FamilyMembers1</RootNamespace>
     <AssemblyName>Apttus.Assignment.FamilyMembers1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Child.cs" />
+    <Compile Include="Members.cs" />
+    <Compile Include="Son.cs" />
     <Compile Include="enums\Gender.cs" />
     <Compile Include="Father.cs" />
     <Compile Include="GrandFather.cs" />

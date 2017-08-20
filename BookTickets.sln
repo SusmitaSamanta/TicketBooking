@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAndCalculate", "BookAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyMembers1", "FamilyMembers1\FamilyMembers1.csproj", "{84F8293D-02CB-43B1-8560-CD0E3D12794C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{0EDA015E-70FE-4203-A95A-747592D5F644}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{84F8293D-02CB-43B1-8560-CD0E3D12794C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{84F8293D-02CB-43B1-8560-CD0E3D12794C}.Release|x64.ActiveCfg = Release|Any CPU
 		{84F8293D-02CB-43B1-8560-CD0E3D12794C}.Release|x64.Build.0 = Release|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Debug|x64.Build.0 = Debug|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Release|x64.ActiveCfg = Release|Any CPU
+		{0EDA015E-70FE-4203-A95A-747592D5F644}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
